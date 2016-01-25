@@ -1,0 +1,15 @@
+{
+  "name": "angular-accounts",
+  "version": "0.0.1",
+  "description": "A basic registration set up with authentication using Firebase and AngularJS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brz0/angular-accounts.git"
+  },
+  "author": "Justin Brazeau",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.8.1"
+  }
+}
